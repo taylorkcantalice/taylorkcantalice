@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/taylorkcantalice">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=taylorkcantalice&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorkcantalice&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taylorkcantalice&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorkcantalice&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,6 +18,6 @@
 ##
   
 <div>
-  <a href="taylorkcantalice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:taylorkcantalice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/taylor-nobrega-79562a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
